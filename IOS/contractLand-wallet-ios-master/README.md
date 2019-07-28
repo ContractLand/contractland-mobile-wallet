@@ -1,8 +1,8 @@
 # ContractLand - CLC iOS Wallet APP and Web3 DApp Browser for DEX
 
 
-Welcome to Trust's open source iOS app!
-ContractLand ios app is folked the Trust ios app,and custom the mainnet and ui.
+Welcome to ContractLand open source iOS app!
+ContractLand ios app is folked the Trust ios app,and custom the mainnet and ui,integrate the wallet and dex,what's more,we put our  defi dapp ech partner into our app.
 
 ## Getting Started
 
